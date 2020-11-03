@@ -1,4 +1,4 @@
-# GrafkomP2K7
+# Anggritective
 
 ## Story
 Detektif yang nyari bukti buat nentuin *suspect*-nya siapa.
