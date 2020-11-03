@@ -15,6 +15,6 @@ Tentuin suspectnya dengan benar (sukses), gagal jika salah menentukan suspect.
 ## Pembagian Tugas
 | Nama | Role |
 | ------ | ------ |
-| Muhammad Rayhan Adyatma | *Game Artist* |
-| Muhammad Faris Waliyuddin | *Game Design* |
-| Hendrika Anggriawan | *Game Programmer* |
+| Muhammad Rayhan Adyatma (G64180064) | *Game Artist* |
+| Muhammad Faris Waliyuddin (G64180067) | *Game Design* |
+| Hendrika Anggriawan (G64180088) | *Game Programmer* |
