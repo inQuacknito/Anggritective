@@ -10,7 +10,7 @@ Tentuin suspectnya dengan benar (sukses), gagal jika salah menentukan suspect.
 - *Guess the suspect* berdasarkan alibi
 - Masuk TKP dan ambil bukti sebanyak-banyaknya
 - Jangan sampai tertangkap dengan penjaga dalam pencarian bukti
-- Detektif hanya bisa menentukan/nuduh *suspect* di tempat yang telah ditentukan sistem
+- Detektif hanya bisa menentukan/nuduh *suspect* di tempat yang telah ditentukan
 
 ## Pembagian Tugas
 | Nama | Role |
