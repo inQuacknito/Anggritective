@@ -4,7 +4,7 @@
 Detektif yang nyari bukti buat nentuin *suspect*-nya siapa.
 
 ## Goals
-Tentuin suspectnya dengan benar (sukses), gagal jika salah menentukan suspect.
+Tentuin *suspect*-nya dengan benar (sukses), gagal jika salah menentukan suspect.
 
 ## Rules : 
 - *Guess the suspect* berdasarkan alibi
