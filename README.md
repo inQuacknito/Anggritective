@@ -18,3 +18,10 @@ Tentuin *suspect*-nya dengan benar (sukses), gagal jika salah menentukan suspect
 | Muhammad Rayhan Adyatma (G64180064) | *Game Artist* |
 | Muhammad Faris Waliyuddin (G64180067) | *Game Design* |
 | Hendrika Anggriawan (G64180088) | *Game Programmer* |
+
+## Assets
+| Assets | Author | Link |
+| ------ | ------ | ------|
+| 24x32 characters with faces (big pack) | Cabbit | https://opengameart.org/content/24x32-characters-with-faces-big-pack |
+| [LPC] City inside | Reemax | https://opengameart.org/content/lpc-city-inside |
+| LPC: Interior Castle Tiles | Sharm | https://opengameart.org/content/lpc-interior-castle-tiles |
