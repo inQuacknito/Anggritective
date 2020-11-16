@@ -1,10 +1,10 @@
 # Anggritective
 
 ## Story
-Detektif yang nyari bukti buat nentuin *suspect*-nya siapa.
+Detektif yang mencari bukti untuk menentukan *suspect* yang benar bersalah.
 
 ## Goals
-Tentuin *suspect*-nya dengan benar (sukses), gagal jika salah menentukan suspect.
+  Menentukan *suspect* dengan benar (sukses), gagal jika salah menentukan suspect.
 
 ## Rules : 
 - *Guess the suspect* berdasarkan alibi
