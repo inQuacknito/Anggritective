@@ -1,7 +1,7 @@
 # Anggritective
 
 ## Story
-Detektif yang mencari bukti untuk menentukan *suspect* yang benar bersalah.
+Detektif yang mencari bukti untuk menentukan *suspect* yang bersalah.
 
 ## Goals
   Menentukan *suspect* dengan benar (sukses), gagal jika salah menentukan suspect.
