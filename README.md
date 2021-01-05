@@ -31,11 +31,19 @@ Anggri adalah seorang detektif ternama di kotanya. Pada suatu hari, terjadi kasu
 
 ## Screenshot Gameplay
 ![alt text](https://github.com/hendrikaang/GrafkomP2K7/blob/main/Screenshots/1.PNG)
+
 ![alt text](https://github.com/hendrikaang/GrafkomP2K7/blob/main/Screenshots/2.PNG)
+
 ![alt text](https://github.com/hendrikaang/GrafkomP2K7/blob/main/Screenshots/2_1.PNG)
+
 ![alt text](https://github.com/hendrikaang/GrafkomP2K7/blob/main/Screenshots/3.PNG)
+
 ![alt text](https://github.com/hendrikaang/GrafkomP2K7/blob/main/Screenshots/4.PNG)
+
 ![alt text](https://github.com/hendrikaang/GrafkomP2K7/blob/main/Screenshots/5.PNG)
+
 ![alt text](https://github.com/hendrikaang/GrafkomP2K7/blob/main/Screenshots/6.PNG)
+
 ![alt text](https://github.com/hendrikaang/GrafkomP2K7/blob/main/Screenshots/7.PNG)
+
 ![alt text](https://github.com/hendrikaang/GrafkomP2K7/blob/main/Screenshots/8.PNG)
