@@ -38,8 +38,6 @@ Anggri adalah seorang detektif ternama di kotanya. Pada suatu hari, terjadi kasu
 
 ![alt text](https://github.com/hendrikaang/GrafkomP2K7/blob/main/Screenshots/3.PNG)
 
-![alt text](https://github.com/hendrikaang/GrafkomP2K7/blob/main/Screenshots/4.PNG)
-
 ![alt text](https://github.com/hendrikaang/GrafkomP2K7/blob/main/Screenshots/5.PNG)
 
 ![alt text](https://github.com/hendrikaang/GrafkomP2K7/blob/main/Screenshots/6.PNG)
