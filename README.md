@@ -28,3 +28,14 @@ Anggri adalah seorang detektif ternama di kotanya. Pada suatu hari, terjadi kasu
 | [LPC] City Outside | Reemax | https://opengameart.org/content/lpc-city-inside |
 | Street Tiles | curato | https://opengameart.org/content/street-tiles |
 | Car Sedan | TRBRY | https://opengameart.org/content/street-tiles |
+
+## Screenshot Gameplay
+![alt text](https://github.com/hendrikaang/GrafkomP2K7/blob/main/Screenshots/1.PNG)
+![alt text](https://github.com/hendrikaang/GrafkomP2K7/blob/main/Screenshots/2.PNG)
+![alt text](https://github.com/hendrikaang/GrafkomP2K7/blob/main/Screenshots/2_1.PNG)
+![alt text](https://github.com/hendrikaang/GrafkomP2K7/blob/main/Screenshots/3.PNG)
+![alt text](https://github.com/hendrikaang/GrafkomP2K7/blob/main/Screenshots/4.PNG)
+![alt text](https://github.com/hendrikaang/GrafkomP2K7/blob/main/Screenshots/5.PNG)
+![alt text](https://github.com/hendrikaang/GrafkomP2K7/blob/main/Screenshots/6.PNG)
+![alt text](https://github.com/hendrikaang/GrafkomP2K7/blob/main/Screenshots/7.PNG)
+![alt text](https://github.com/hendrikaang/GrafkomP2K7/blob/main/Screenshots/8.PNG)
