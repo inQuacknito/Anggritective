@@ -1,10 +1,10 @@
 # Anggritective
 
 ## Story
-Detektif yang mencari bukti untuk menentukan *suspect* yang bersalah.
+Anggri adalah seorang detektif ternama di kotanya. Pada suatu hari, terjadi kasus pembunuhan yang menewaskan pemuda berusia 21 tahun. Polisi sudah berhasil mengamankan beberapa orang yang berpotensi menjadi tersangka. Para tersangka memberikan alibi masing-masing kepada Detektif Anggri. Merasa bukti kurang kuat, Detektif Anggri pergi ke TKP untuk mengumpulkan lebih banyak bukti. Akan tetapi, ternyata TKP tersebut sudah dijaga oleh preman yang ingin menutupi bukti dari kasus ini. Akankah Detektif Anggri berhasil mengumpulkan bukti tanpa tertangkap oleh preman dan menebak siapa tersangka dalam kasus ini?
 
 ## Goals
-  Menentukan *suspect* dengan benar (sukses), gagal jika salah menentukan suspect.
+  Menentukan *suspect* dengan benar (sukses), gagal jika salah menentukan suspect atau tertangkap preman.
 
 ## Rules : 
 - *Guess the suspect* berdasarkan alibi
@@ -23,5 +23,7 @@ Detektif yang mencari bukti untuk menentukan *suspect* yang bersalah.
 | Assets | Author | Link |
 | ------ | ------ | ------|
 | 24x32 characters with faces (big pack) | Cabbit | https://opengameart.org/content/24x32-characters-with-faces-big-pack |
-| [LPC] City inside | Reemax | https://opengameart.org/content/lpc-city-inside |
-| LPC: Interior Castle Tiles | Sharm | https://opengameart.org/content/lpc-interior-castle-tiles |
+| [LPC] City Inside | Reemax | https://opengameart.org/content/lpc-city-inside |
+| [LPC] City Outside | Reemax | https://opengameart.org/content/lpc-city-inside |
+| Street Tiles | curato | https://opengameart.org/content/street-tiles |
+| Car Sedan | TRBRY | https://opengameart.org/content/street-tiles |
