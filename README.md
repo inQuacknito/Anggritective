@@ -1,4 +1,5 @@
 # Anggritective
+![alt text](https://github.com/hendrikaang/GrafkomP2K7/blob/main/MainMenu.PNG)
 
 ## Story
 Anggri adalah seorang detektif ternama di kotanya. Pada suatu hari, terjadi kasus pembunuhan yang menewaskan pemuda berusia 21 tahun. Polisi sudah berhasil mengamankan beberapa orang yang berpotensi menjadi tersangka. Para tersangka memberikan alibi masing-masing kepada Detektif Anggri. Merasa bukti kurang kuat, Detektif Anggri pergi ke TKP untuk mengumpulkan lebih banyak bukti. Akan tetapi, ternyata TKP tersebut sudah dijaga oleh preman yang ingin menutupi bukti dari kasus ini. Akankah Detektif Anggri berhasil mengumpulkan bukti tanpa tertangkap oleh preman dan menebak siapa tersangka dalam kasus ini?
