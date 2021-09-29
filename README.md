@@ -16,8 +16,8 @@ Anggri adalah seorang detektif ternama di kotanya. Pada suatu hari, terjadi kasu
 ## Pembagian Tugas
 | Nama | Role |
 | ------ | ------ |
-| Muhammad Rayhan Adyatma (G64180064) | *Game Artist & Programmer* |
-| Muhammad Faris Waliyuddin (G64180067) | *Game Design* |
+| Muhammad Rayhan Adyatma (G64180064) | *Game Design & Programmer* |
+| Muhammad Faris Waliyuddin (G64180067) | *Game Artist & Design* |
 | Hendrika Anggriawan (G64180088) | *Game Programmer* |
 
 ## Assets
